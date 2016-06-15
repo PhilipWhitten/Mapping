@@ -5,4 +5,4 @@ This aim of this project is to take a collect of gpx files and produce a raster 
 
 The first step is to open a series of gpx files located in one folder, change their projection (in this case EPSG28355), and change their file type to one that is compatible with the GDAL python library (eg. shapefile).
 
-Uses the GDAL python library.
+Uses the GDAL python library.  Intructions for loading GDAL library: http://cartometric.com/blog/2011/10/17/install-gdal-on-windows/
