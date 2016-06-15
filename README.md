@@ -1,5 +1,5 @@
-# GPX to OSG format
-Python code for automating mapping and GIS procedures.
+# GPX to shapefile format with reprojection of data
+Python code for converting a folder of gpx files to ESRI shapefiles.
 
 This aim of this project is to take a collect of gpx files and produce a raster heatmap type image where different colors are used to indicate the number of times a gpx track is incident on a specific point.
 
